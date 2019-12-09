@@ -1,0 +1,17 @@
+C:\Aproxima\RaspberryTesterClient\net461\win-x86\RaspberryTesterClient.exe.config
+C:\Aproxima\RaspberryTesterClient\net461\win-x86\RaspberryTesterClient.exe
+C:\Aproxima\RaspberryTesterClient\net461\win-x86\RaspberryTesterClient.pdb
+D:\jogi\Aproxima\RaspberryTester\RaspberryTesterClient\obj\Release\net461\win-x86\RaspberryTesterClient.csprojAssemblyReference.cache
+D:\jogi\Aproxima\RaspberryTester\RaspberryTesterClient\obj\Release\net461\win-x86\RaspberryTesterClient.exe.config
+D:\jogi\Aproxima\RaspberryTester\RaspberryTesterClient\obj\Release\net461\win-x86\RaspberryTesterClient.AssemblyInfoInputs.cache
+D:\jogi\Aproxima\RaspberryTester\RaspberryTesterClient\obj\Release\net461\win-x86\RaspberryTesterClient.AssemblyInfo.cs
+D:\jogi\Aproxima\RaspberryTester\RaspberryTesterClient\obj\Release\net461\win-x86\RaspberryTesterClient.csproj.CopyComplete
+D:\jogi\Aproxima\RaspberryTester\RaspberryTesterClient\obj\Release\net461\win-x86\RaspberryTesterClient.exe
+D:\jogi\Aproxima\RaspberryTester\RaspberryTesterClient\obj\Release\net461\win-x86\RaspberryTesterClient.pdb
+D:\jogi\Aproxima\MonitorNivel\RaspberryAPI\RaspberryTesterClient\obj\Release\net461\win-x86\RaspberryTesterClient.csprojAssemblyReference.cache
+D:\jogi\Aproxima\MonitorNivel\RaspberryAPI\RaspberryTesterClient\obj\Release\net461\win-x86\RaspberryTesterClient.exe.config
+D:\jogi\Aproxima\MonitorNivel\RaspberryAPI\RaspberryTesterClient\obj\Release\net461\win-x86\RaspberryTesterClient.AssemblyInfoInputs.cache
+D:\jogi\Aproxima\MonitorNivel\RaspberryAPI\RaspberryTesterClient\obj\Release\net461\win-x86\RaspberryTesterClient.AssemblyInfo.cs
+D:\jogi\Aproxima\MonitorNivel\RaspberryAPI\RaspberryTesterClient\obj\Release\net461\win-x86\RaspberryTesterClient.csproj.CopyComplete
+D:\jogi\Aproxima\MonitorNivel\RaspberryAPI\RaspberryTesterClient\obj\Release\net461\win-x86\RaspberryTesterClient.exe
+D:\jogi\Aproxima\MonitorNivel\RaspberryAPI\RaspberryTesterClient\obj\Release\net461\win-x86\RaspberryTesterClient.pdb

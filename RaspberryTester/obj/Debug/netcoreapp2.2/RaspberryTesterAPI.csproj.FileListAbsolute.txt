@@ -1,0 +1,6 @@
+X:\jogi\dotnet\RaspberryTester\RaspberryTester\obj\Debug\netcoreapp2.2\RaspberryTesterAPI.csprojAssemblyReference.cache
+X:\jogi\dotnet\RaspberryTester\RaspberryTester\obj\Debug\netcoreapp2.2\RaspberryTesterAPI.csproj.CoreCompileInputs.cache
+X:\jogi\dotnet\RaspberryTester\RaspberryTester\obj\Debug\netcoreapp2.2\RaspberryTesterAPI.RazorAssemblyInfo.cache
+X:\jogi\dotnet\RaspberryTester\RaspberryTester\obj\Debug\netcoreapp2.2\RaspberryTesterAPI.RazorAssemblyInfo.cs
+X:\jogi\dotnet\RaspberryTester\RaspberryTester\obj\Debug\netcoreapp2.2\RaspberryTesterAPI.AssemblyInfoInputs.cache
+X:\jogi\dotnet\RaspberryTester\RaspberryTester\obj\Debug\netcoreapp2.2\RaspberryTesterAPI.AssemblyInfo.cs

@@ -1,0 +1,10 @@
+C:\Aproxima\RaspberryTesterClient\net461\RaspberryTesterClient.exe.config
+C:\Aproxima\RaspberryTesterClient\net461\RaspberryTesterClient.exe
+C:\Aproxima\RaspberryTesterClient\net461\RaspberryTesterClient.pdb
+D:\jogi\Aproxima\RaspberryTester\RaspberryTesterClient\obj\Release\net461\RaspberryTesterClient.exe.config
+D:\jogi\Aproxima\RaspberryTester\RaspberryTesterClient\obj\Release\net461\RaspberryTesterClient.AssemblyInfoInputs.cache
+D:\jogi\Aproxima\RaspberryTester\RaspberryTesterClient\obj\Release\net461\RaspberryTesterClient.AssemblyInfo.cs
+D:\jogi\Aproxima\RaspberryTester\RaspberryTesterClient\obj\Release\net461\RaspberryTesterClient.csproj.CopyComplete
+D:\jogi\Aproxima\RaspberryTester\RaspberryTesterClient\obj\Release\net461\RaspberryTesterClient.exe
+D:\jogi\Aproxima\RaspberryTester\RaspberryTesterClient\obj\Release\net461\RaspberryTesterClient.pdb
+D:\jogi\Aproxima\RaspberryTester\RaspberryTesterClient\obj\Release\net461\RaspberryTesterClient.csprojAssemblyReference.cache
