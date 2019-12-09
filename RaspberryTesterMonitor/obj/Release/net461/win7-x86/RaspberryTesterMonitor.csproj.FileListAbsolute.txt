@@ -1,9 +1,0 @@
-C:\Aproxima\RaspberryTesterClient\net461\win7-x86\RaspberryTesterMonitor.exe.config
-C:\Aproxima\RaspberryTesterClient\net461\win7-x86\RaspberryTesterMonitor.exe
-C:\Aproxima\RaspberryTesterClient\net461\win7-x86\RaspberryTesterMonitor.pdb
-D:\jogi\Aproxima\RaspberryTester\RaspberryTesterMonitor\obj\Release\net461\win7-x86\RaspberryTesterMonitor.exe.config
-D:\jogi\Aproxima\RaspberryTester\RaspberryTesterMonitor\obj\Release\net461\win7-x86\RaspberryTesterMonitor.AssemblyInfoInputs.cache
-D:\jogi\Aproxima\RaspberryTester\RaspberryTesterMonitor\obj\Release\net461\win7-x86\RaspberryTesterMonitor.AssemblyInfo.cs
-D:\jogi\Aproxima\RaspberryTester\RaspberryTesterMonitor\obj\Release\net461\win7-x86\RaspberryTesterMonitor.csproj.CopyComplete
-D:\jogi\Aproxima\RaspberryTester\RaspberryTesterMonitor\obj\Release\net461\win7-x86\RaspberryTesterMonitor.exe
-D:\jogi\Aproxima\RaspberryTester\RaspberryTesterMonitor\obj\Release\net461\win7-x86\RaspberryTesterMonitor.pdb

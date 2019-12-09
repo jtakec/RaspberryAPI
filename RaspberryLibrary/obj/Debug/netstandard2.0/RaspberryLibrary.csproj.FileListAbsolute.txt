@@ -40,4 +40,3 @@ D:\jogi\Aproxima\RaspberryAPI\RaspberryLibrary\obj\Debug\netstandard2.0\Raspberr
 D:\jogi\Aproxima\RaspberryAPI\RaspberryLibrary\obj\Debug\netstandard2.0\RaspberryLibrary.AssemblyInfo.cs
 D:\jogi\Aproxima\RaspberryAPI\RaspberryLibrary\obj\Debug\netstandard2.0\RaspberryLibrary.dll
 D:\jogi\Aproxima\RaspberryAPI\RaspberryLibrary\obj\Debug\netstandard2.0\RaspberryLibrary.pdb
-D:\jogi\Aproxima\RaspberryAPI\RaspberryLibrary\obj\Debug\netstandard2.0\RaspberryLibrary.csprojAssemblyReference.cache
